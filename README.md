@@ -15,7 +15,7 @@
 
 • pip installed httpx
 
-• pip installed random
+• -pip installed random-
 
 
 
