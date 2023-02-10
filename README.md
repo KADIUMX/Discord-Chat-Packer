@@ -40,3 +40,5 @@ Any Erros or you want to suggest something? Heres the Contact:
 > https://discord.gg/kadium
 
 > KADIUM#7571
+
+# [❤️] » Made with Love, by KADIUM
