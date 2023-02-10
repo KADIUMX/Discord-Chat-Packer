@@ -5,7 +5,7 @@
 • Packs Someone in a discord chat
 
 # What Are the Requirements
-• Python 3.11.2
+• Python 3.11.2 - https://python.org/download
 
 • pip installed requests
 
