@@ -15,7 +15,7 @@
 
 • pip installed httpx
 
-• -pip installed random-
+• pip installed random
 
 
 
@@ -26,6 +26,9 @@
 • Yes the account can get banned for (swearing) but the chance is very low
 
 # How can i Install The requirements
+1. Press Windows Button and R at the same time
+2. There will pop up a window. type "cmd" then.
+3. Type these thing below and then everything should be alright
 ```
 pip install colorama or pip install pycolorama
 
