@@ -25,4 +25,16 @@
 # Can my Discord Account get Banned for this
 • Yes the account can get banned for (swearing) but the chance is very low
 
-[❤️] » Made with love by KADIUM
+# How can i Install The requirements
+``
+pip install colorama or pip install pycolorama
+pip install httpx or pip install pyhttpx
+pip install random or pip install pyrandom
+``
+
+# Contact
+Any Erros or you want to suggest something? Heres the Contact:
+
+> https://discord.gg/kadium
+
+> KADIUM#7571
